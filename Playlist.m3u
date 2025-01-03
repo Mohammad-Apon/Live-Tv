@@ -31,10 +31,16 @@ http://172.25.25.30:8082/roarzone/bk/31/tracks-v1a1/mono.m3u8
 http://172.25.25.30:8082/roarzone/bk/51/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Movie Bangla
 http://172.25.25.30:8082/roarzone/bk/86/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="",MY TV
+http://172.25.25.30:8082/roarzone/bk/56/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="",NTV
+http://172.25.25.30:8082/roarzone/bk/54/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Nick
 http://172.25.25.30:8082/roarzone/bk/55/tracks-v1/mono.m3u8
 #EXTINF:-1,tvg-logo="",RTV
 http://172.25.25.30:8082/roarzone/bk/14/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="",Somoy TV
+http://172.25.25.30:8082/roarzone/bk/17/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Sony Aath
 http://172.25.25.30:8082/roarzone/bk/33/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Star Jalsha HD
