@@ -1,26 +1,14 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="",Asian TV
-http://172.25.25.30:8082/roarzone/edge/asian-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",ATN Bangla
 http://172.25.25.30:8082/roarzone/bk/2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="",ATN News
-http://172.25.25.30:8082/roarzone/bk/49/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Bangla Vision
 http://172.25.25.30:8082/roarzone/bk/3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Boisakhi TV
 http://172.25.25.30:8082/roarzone/bk/61/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="",Colours Bangla
-http://172.25.25.30:8082/roarzone/bk/66/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="",Cartoon Network
-http://172.25.25.30:8082/roarzone/bk/79/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="",Duronto TV
-http://172.25.25.30:8082/roarzone/bk/10/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Ekushey TV
 http://172.25.25.30:8082/roarzone/bk/65/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Gazi TV
 http://172.25.25.30:8082/roarzone/bk/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="",Gaan Bangla
-http://172.25.25.30:8082/roarzone/bk/58/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Independent
 http://172.25.25.30:8082/roarzone/bk/12/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Jamuna TV
@@ -29,14 +17,10 @@ http://172.25.25.30:8082/roarzone/bk/13/tracks-v1a1/mono.m3u8
 http://172.25.25.30:8082/roarzone/bk/31/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Maasranga TV
 http://172.25.25.30:8082/roarzone/bk/51/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="",Movie Bangla
-http://172.25.25.30:8082/roarzone/bk/86/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",MY TV
 http://172.25.25.30:8082/roarzone/bk/56/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",NTV
 http://172.25.25.30:8082/roarzone/bk/54/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="",Nick
-http://172.25.25.30:8082/roarzone/bk/55/tracks-v1/mono.m3u8
 #EXTINF:-1,tvg-logo="",RTV
 http://172.25.25.30:8082/roarzone/bk/14/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Somoy TV
@@ -45,9 +29,9 @@ http://172.25.25.30:8082/roarzone/bk/17/tracks-v1a1/mono.m3u8
 http://172.25.25.30:8082/roarzone/bk/33/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Star Jalsha HD
 http://172.25.25.30:8082/roarzone/bk/30/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="",T-Sports HD
-http://172.25.25.30:8082/roarzone/bk/102/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="",Zee Bangla HD
 http://172.25.25.30:8082/roarzone/bk/34/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="",Zee Bangla Cinema
-http://172.25.25.30:8082/roarzone/bk/29/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="",Fancode
+
+#EXTINF:-1,tvg-logo="",Sonyliv
+https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
